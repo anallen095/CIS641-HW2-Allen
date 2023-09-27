@@ -15,4 +15,4 @@ However, I am always look for opportunity to improve, so I have expanded my know
 
 Moving forward, I would like to find new and creative ways to use Python to bring interactive visualizations to my team and allow them to work collaboratively to solve business issues. 
 
-!(https://pbs.twimg.com/media/En-1Kc1UUAAYmqR?format=jpg&name=900x900)
+![Programmer Life](En-1Kc1UUAAYmqR.jpg)
